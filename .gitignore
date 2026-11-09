@@ -1,0 +1,19 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Experiment tracking
+wandb/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# Environment files
+.env
+.venv/
